@@ -9,58 +9,54 @@
 <!-- <p align="center">
   Sou um desenvolvedor apaixonado por tecnologia, com experiência em [tecnologias principais] e uma paixão por [área de interesse, ex: desenvolvimento web, ciência de dados, etc.]. 🚀
 </p> -->
+###
 
-<!-- Contador de visitantes -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Visualizações do perfil"/>
 </p>
+</div>
 
----
+###
 
-<!-- Sobre mim 
-### Sobre mim
+<br clear="both">
 
-- 🔭 Atualmente trabalhando em: [Projeto atual ou área de trabalho]
-- 🌱 Aprendendo: [Tecnologias ou habilidades que você está aprendendo]
-- 💬 Pergunte-me sobre: [Tecnologias que você domina ou áreas que você pode ajudar]
-- 📫 Como me encontrar: [seu-email@dominio.com]
-- ⚡ Fato curioso: [Um fato divertido sobre você]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorPozzan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPozzan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=VictorPozzan&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=VictorPozzan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorPozzan&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
----
--->
-<!-- Habilidades e Tecnologias -->
-### 🚀 Habilidades e Tecnologias
+###
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorPozzan/VictorPozzan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorPozzan/VictorPozzan/output/pacman-contribution-graph.svg">
+  <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorPozzan/VictorPozzan/output/pacman-contribution-graph.svg"> -->
+</picture>
 
----
-
-<!-- Projetos em destaque
-### 🌟 Projetos em Destaque
-
-- [**Nome do Projeto 1**](https://github.com/seu-usuario/projeto-1): Breve descrição do projeto, tecnologias utilizadas e funcionalidades principais.
-- [**Nome do Projeto 2**](https://github.com/seu-usuario/projeto-2): Breve descrição do projeto, tecnologias utilizadas e funcionalidades principais.
-
----
- -->
-<!-- Estatísticas do GitHub 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
--->
-<!-- Redes sociais --
-### 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com) 
--->
+###
