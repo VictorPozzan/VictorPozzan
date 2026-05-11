@@ -1,62 +1,30 @@
 
-<h1 align="center">Hello, I am Victor Augusto Pozzan! 👋</h1>
+# Hello World, I am Victor Augusto Pozzan!
+
+<img align="right" height="140" src="[https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2UyeXZibWtmaWdweHN2MmY0OTJuNGZmZjgzdXRwb29mOHRyMnVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif)" />
+
+```cobol
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. WHOIAM.
+       AUTHOR.     VICTOR-AUGUSTO-POZZAN.
+       DATE-WRITTEN. 11/05/2026.
+       REMARKS.    BUILDING SYSTEMS THAT SURVIVE PRODUCTION.
+```
 
 Fullstack Developer based in Cascavel, Brazil. Computer Science BSc graduate from UNIOESTE, currently building web applications, automations with AI at **EBCON**.
 
-I like to work across the stack with TypeScript on both ends React and Angular on the frontend, Node.js (Fastify/NestJS) on the backend and I care about shipping software that actually runs in production.
+Mostly writing TypeScript these days React, Angular, Node. Occasionally Python when nobody's looking.
 
-### What I'm working with
-
-**Frontend** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Angular &nbsp;·&nbsp; Tailwind CSS  
-**Backend** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Fastify &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MongoDB  
-**Tooling** &nbsp;·&nbsp; Docker &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Drizzle ORM &nbsp;·&nbsp; Vite
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
-</div>
-
-###
-
-
-### Selected work
+### Things I built
 
 - **[Gramme](https://gramme.com.br)**  production web app *(source private)*
 - **[Psychologist Landing](https://lucaspetrich.com.br)**  production landing page *(source private)*
 - **[Brevly](https://github.com/VictorPozzan/brevly)**  URL shortener with access analytics and CSV export
-- **[SSS — Simple Supplements Store](https://github.com/VictorPozzan/SSS--Simple-Supplements-Store-)** e-commerce frontend
+- **[SSS - Simple Supplements Store](https://github.com/VictorPozzan/SSS--Simple-Supplements-Store-)** e-commerce frontend
 
 
-### Contact
+### Find me
 
-<div>
-  <a href="https://www.linkedin.com/in/victor-augusto-pozzan-223240186/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="25"
-      alt="LinkedIn logo"
-    />
-  </a>
-  <p align="center">
-    <img
-      src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue"
-      alt="Visualizações do perfil"
-    />
-  </p>
-</div>
+- [LinkedIn](https://www.linkedin.com/in/victor-augusto-pozzan-223240186/)
+- [Email](victoraugustopozzan@gmail.com)
 
