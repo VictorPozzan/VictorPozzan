@@ -30,5 +30,5 @@ Computer Science BSc graduate from UNIOESTE, currently building web applications
 ### Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/victor-augusto-pozzan-223240186/)
-- Email - *(victoraugustopozzan@gmail.com)*
+- [victoraugustopozzan@gmail.com](mailto:victoraugustopozzan@gmail.com)
 
