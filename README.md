@@ -16,16 +16,14 @@
                        REACT, ANGULAR, NODE, PYTHON. JAVA WHEN NOBODY LOOKS.
 ```
 
-
-Computer Science BSc graduate from UNIOESTE, currently building web applications, automations with AI at **EBCON**.
+Computer Science BSc graduate from UNIOESTE, currently building web applications and AI-powered automations at EBCON.
 
 
 ### Things I built
 
-- **[Gramme](https://gramme.com.br)**  production web app *(source private)*
-- **[Psychologist Landing](https://lucaspetrich.com.br)**  production landing page *(source private)*
-- **[Brevly](https://github.com/VictorPozzan/brevly)**  URL shortener with access analytics and CSV export
-- **[SSS - Simple Supplements Store](https://github.com/VictorPozzan/SSS--Simple-Supplements-Store-)** e-commerce frontend
+- **[Gramme](https://gramme.com.br)** · production web app *(source private)*
+- **[Psychologist Landing](https://lucaspetrich.com.br)** · production landing page *(source private)*
+- **[Brevly](https://github.com/VictorPozzan/brevly)** · URL shortener with access analytics and CSV export
 
 
 ### Contact
