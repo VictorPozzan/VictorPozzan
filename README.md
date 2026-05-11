@@ -1,9 +1,9 @@
 
 <h1 align="center">Hello, I am Victor Augusto Pozzan! 👋</h1>
 
-Fullstack Developer based in Cascavel, Brazil. Computer Science graduate from UNIOESTE, currently building web applications at **EBCON**.
+Fullstack Developer based in Cascavel, Brazil. Computer Science BSc graduate from UNIOESTE, currently building web applications, automations with AI at **EBCON**.
 
-I work across the stack with TypeScript on both ends React and Angular on the frontend, Node.js (Fastify/NestJS) on the backend and I care about shipping software that actually runs in production, not just demos.
+I like to work across the stack with TypeScript on both ends React and Angular on the frontend, Node.js (Fastify/NestJS) on the backend and I care about shipping software that actually runs in production.
 
 ### What I'm working with
 
@@ -41,41 +41,10 @@ I work across the stack with TypeScript on both ends React and Angular on the fr
 - **[Brevly](https://github.com/VictorPozzan/brevly)**  URL shortener with access analytics and CSV export
 - **[SSS — Simple Supplements Store](https://github.com/VictorPozzan/SSS--Simple-Supplements-Store-)** e-commerce frontend
 
-###
-
-![](https://github-readme-stats.shion.dev/api?username=victorpozzan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://streak-stats.demolab.com/?user=victorpozzan&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=victorpozzan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=VictorPozzan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorPozzan&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorPozzan/VictorPozzan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorPozzan/VictorPozzan/output/pacman-contribution-graph.svg">
-  <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorPozzan/VictorPozzan/output/pacman-contribution-graph.svg"> -->
-</picture>
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorPozzan/VictorPozzan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorPozzan/VictorPozzan/output/pacman-contribution-graph.svg">
-</picture>
 
 ### Contact
 
-<div align="center">
-  <a [email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victoraugustopozzan@gmail.com)</a>
+<div>
   <a href="https://www.linkedin.com/in/victor-augusto-pozzan-223240186/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
