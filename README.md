@@ -7,14 +7,15 @@
 
 ```cobol
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. WHOIAM.
-       AUTHOR.     VICTOR-AUGUSTO-POZZAN.
+       PROGRAM-ID.     VICTOR-POZZAN.
+       AUTHOR.         VICTOR-AUGUSTO-POZZAN.
        DATE-WRITTEN.   2015-08-04.
        DATE-COMPILED.  2019-02. *> first paycheck as a dev.
        SECURITY.       HTTPS-ONLY. NO-PLAIN-TEXT-PASSWORDS.
        REMARKS.        WRITES TYPESCRIPT BY DAY, READS DOCS BY NIGHT.
                        REACT, ANGULAR, NODE, PYTHON. JAVA WHEN NOBODY LOOKS.
 ```
+
 
 Computer Science BSc graduate from UNIOESTE, currently building web applications, automations with AI at **EBCON**.
 
@@ -27,7 +28,7 @@ Computer Science BSc graduate from UNIOESTE, currently building web applications
 - **[SSS - Simple Supplements Store](https://github.com/VictorPozzan/SSS--Simple-Supplements-Store-)** e-commerce frontend
 
 
-### Contact me
+### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/victor-augusto-pozzan-223240186/)
 - [victoraugustopozzan@gmail.com](mailto:victoraugustopozzan@gmail.com)
