@@ -1,14 +1,23 @@
-<!-- Banner ou imagem de boas-vindas 
-<p align="center">
-  <img src="https://github.com/seu-usuario/banner.png" alt="Bem-vindo ao meu perfil!" width="800"/>
-</p>
--->
-<!-- Saudações e introdução -->
-<h1 align="center">Olá, eu sou Victor Augusto Pozzan! 👋</h1>
 
-<!-- <p align="center">
-  Sou um desenvolvedor apaixonado por tecnologia, com experiência em [tecnologias principais] e uma paixão por [área de interesse, ex: desenvolvimento web, ciência de dados, etc.]. 🚀
-</p> -->
+<h1 align="center">Hello, I am Victor Augusto Pozzan! 👋</h1>
+
+Fullstack Developer based in Cascavel, Brazil. Computer Science graduate from UNIOESTE, currently building web applications at **EBCON**.
+
+I work across the stack with TypeScript on both ends React and Angular on the frontend, Node.js (Fastify/NestJS) on the backend and I care about shipping software that actually runs in production, not just demos.
+
+### What I'm working with
+
+**Frontend** &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Angular &nbsp;·&nbsp; Tailwind CSS  
+**Backend** &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Fastify &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MongoDB  
+**Tooling** &nbsp;·&nbsp; Docker &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Drizzle ORM &nbsp;·&nbsp; Vite
+
+### Selected work
+
+- **[Gramme](https://gramme.com.br)**  production web app *(source private)*
+- **[Psychologist Landing](https://lucaspetrich.com.br)**  production landing page *(source private)*
+- **[Brevly](https://github.com/VictorPozzan/brevly)**  URL shortener with access analytics and CSV export
+- **[SSS — Simple Supplements Store](https://github.com/VictorPozzan/SSS--Simple-Supplements-Store-)** e-commerce frontend
+
 ###
 
 <div align="center">
